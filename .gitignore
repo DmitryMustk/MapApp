@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# iOS build artifacts
+ios/Pods/
+ios/build/
+
+# Android build artifacts
+android/.gradle/
+android/app/build/
+android/build/
+
+# Jest cache
+jest.config.js
+coverage/
+
+# Metro bundler cache
+metro.config.js
+
+# macOS system files
+.DS_Store
+
+# VSCode or IDE settings (опционально)
+.vscode/
+
+# Log files
+*.log
+
+# Misc
+*.tmp
+*.swp
+
